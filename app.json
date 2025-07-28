@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme" : "",
     "name": "react_tutorial",
     "slug": "react_tutorial",
     "version": "1.0.0",
